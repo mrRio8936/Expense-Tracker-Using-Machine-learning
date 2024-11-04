@@ -1,0 +1,160 @@
+date,description,amount,category
+2024-08-30,Doctor visit,92.59,Healthcare
+2024-08-31,Groceries,75.63,Food
+2024-08-31,Groceries,40.75,Food
+2024-08-31,Home decor,114.14,Shopping
+2024-09-01,Coffee shop,16.73,Food
+2024-09-01,Gift,64.36,Shopping
+2024-09-01,Concert,138.75,Entertainment
+2024-09-01,Gym membership,93.15,Healthcare
+2024-09-02,Coffee shop,27.11,Food
+2024-09-03,Bus ticket,139.43,Transportation
+2024-09-03,Gas bill,88.62,Utilities
+2024-09-03,Electronics,145.65,Shopping
+2024-09-03,Supermarket,51.48,Food
+2024-09-04,Electronics,25.85,Shopping
+2024-09-04,Gaming,60.45,Entertainment
+2024-09-05,Groceries,123.06,Food
+2024-09-05,Books,110.51,Shopping
+2024-09-05,Streaming service,87.48,Entertainment
+2024-09-06,Home decor,16.27,Shopping
+2024-09-06,Phone bill,48.36,Utilities
+2024-09-06,Concert,74.47,Entertainment
+2024-09-06,Clothes,114.45,Shopping
+2024-09-07,Electricity bill,93.89,Utilities
+2024-09-07,Uber,106.0,Transportation
+2024-09-07,Gas bill,125.79,Utilities
+2024-09-07,Vitamins,111.95,Healthcare
+2024-09-08,Uber,68.08,Transportation
+2024-09-09,Uber,61.71,Transportation
+2024-09-10,Movie ticket,57.86,Entertainment
+2024-09-10,Coffee shop,87.99,Food
+2024-09-10,Streaming service,46.5,Entertainment
+2024-09-10,Books,149.83,Shopping
+2024-09-11,Books,24.73,Shopping
+2024-09-11,Restaurant,141.62,Food
+2024-09-11,Coffee shop,145.34,Food
+2024-09-12,Water bill,109.98,Utilities
+2024-09-12,Fast food,104.28,Food
+2024-09-12,Restaurant,33.88,Food
+2024-09-12,Gaming,114.05,Entertainment
+2024-09-13,Water bill,6.56,Utilities
+2024-09-13,Electronics,116.95,Shopping
+2024-09-14,Phone bill,77.31,Utilities
+2024-09-14,Car rental,98.74,Transportation
+2024-09-14,Gym membership,105.54,Healthcare
+2024-09-14,Car rental,113.93,Transportation
+2024-09-15,Pharmacy,121.82,Healthcare
+2024-09-15,Gym membership,93.52,Healthcare
+2024-09-15,Supermarket,63.12,Food
+2024-09-15,Therapy,9.77,Healthcare
+2024-09-16,Groceries,45.86,Food
+2024-09-16,Train ticket,114.08,Transportation
+2024-09-17,Therapy,71.27,Healthcare
+2024-09-17,Phone bill,103.45,Utilities
+2024-09-18,Gift,58.45,Shopping
+2024-09-18,Electronics,52.36,Shopping
+2024-09-18,Gas bill,91.02,Utilities
+2024-09-18,Supermarket,109.28,Food
+2024-09-19,Gaming,21.38,Entertainment
+2024-09-19,Supermarket,117.45,Food
+2024-09-19,Phone bill,133.04,Utilities
+2024-09-19,Streaming service,80.66,Entertainment
+2024-09-20,Car rental,149.82,Transportation
+2024-09-20,Car rental,124.83,Transportation
+2024-09-21,Electronics,98.78,Shopping
+2024-09-21,Doctor visit,87.22,Healthcare
+2024-09-22,Gift,30.75,Shopping
+2024-09-22,Movie ticket,92.35,Entertainment
+2024-09-22,Concert,19.01,Entertainment
+2024-09-22,Gift,77.99,Shopping
+2024-09-23,Uber,92.42,Transportation
+2024-09-23,Pharmacy,29.05,Healthcare
+2024-09-24,Uber,108.42,Transportation
+2024-09-24,Car rental,98.4,Transportation
+2024-09-25,Therapy,33.91,Healthcare
+2024-09-25,Gift,34.26,Shopping
+2024-09-25,Pharmacy,52.74,Healthcare
+2024-09-25,Coffee shop,95.5,Food
+2024-09-26,Water bill,106.56,Utilities
+2024-09-26,Train ticket,5.22,Transportation
+2024-09-27,Bus ticket,82.66,Transportation
+2024-09-27,Movie ticket,60.27,Entertainment
+2024-09-27,Gym membership,59.71,Healthcare
+2024-09-27,Movie ticket,67.26,Entertainment
+2024-09-28,Gas station,114.02,Transportation
+2024-09-29,Phone bill,132.36,Utilities
+2024-09-29,Movie ticket,88.32,Entertainment
+2024-09-30,Fast food,42.59,Food
+2024-09-30,Clothes,133.41,Shopping
+2024-09-30,Electricity bill,65.31,Utilities
+2024-10-01,Pharmacy,101.87,Healthcare
+2024-10-01,Electricity bill,108.55,Utilities
+2024-10-01,Restaurant,47.25,Food
+2024-10-01,Restaurant,19.44,Food
+2024-10-02,Gaming,140.46,Entertainment
+2024-10-02,Train ticket,119.73,Transportation
+2024-10-02,Restaurant,77.94,Food
+2024-10-02,Clothes,90.34,Shopping
+2024-10-03,Clothes,12.22,Shopping
+2024-10-03,Gym membership,107.5,Healthcare
+2024-10-03,Fast food,111.86,Food
+2024-10-04,Gaming,95.4,Entertainment
+2024-10-04,Phone bill,32.34,Utilities
+2024-10-04,Streaming service,34.96,Entertainment
+2024-10-04,Fast food,32.83,Food
+2024-10-05,Phone bill,108.11,Utilities
+2024-10-05,Internet bill,55.31,Utilities
+2024-10-06,Bowling,58.76,Entertainment
+2024-10-06,Groceries,104.71,Food
+2024-10-06,Clothes,47.1,Shopping
+2024-10-06,Phone bill,124.41,Utilities
+2024-10-07,Bowling,62.23,Entertainment
+2024-10-07,Electricity bill,132.08,Utilities
+2024-10-07,Electricity bill,111.04,Utilities
+2024-10-08,Water bill,139.96,Utilities
+2024-10-09,Gas bill,97.12,Utilities
+2024-10-09,Concert,40.14,Entertainment
+2024-10-10,Vitamins,133.23,Healthcare
+2024-10-10,Car rental,35.45,Transportation
+2024-10-11,Books,101.63,Shopping
+2024-10-11,Electricity bill,67.71,Utilities
+2024-10-11,Train ticket,121.69,Transportation
+2024-10-12,Movie ticket,60.08,Entertainment
+2024-10-13,Bus ticket,98.57,Transportation
+2024-10-13,Therapy,14.48,Healthcare
+2024-10-13,Car rental,115.46,Transportation
+2024-10-13,Uber,8.16,Transportation
+2024-10-14,Doctor visit,28.56,Healthcare
+2024-10-14,Therapy,31.57,Healthcare
+2024-10-14,Car rental,99.54,Transportation
+2024-10-14,Electronics,85.44,Shopping
+2024-10-15,Concert,100.74,Entertainment
+2024-10-15,Uber,48.91,Transportation
+2024-10-15,Water bill,31.4,Utilities
+2024-10-16,Books,13.65,Shopping
+2024-10-16,Fast food,70.23,Food
+2024-10-17,Books,112.24,Shopping
+2024-10-17,Supermarket,130.31,Food
+2024-10-17,Phone bill,44.67,Utilities
+2024-10-18,Gas station,59.87,Transportation
+2024-10-19,Gas bill,143.24,Utilities
+2024-10-20,Clothes,148.82,Shopping
+2024-10-20,Movie ticket,130.15,Entertainment
+2024-10-21,Vitamins,28.78,Healthcare
+2024-10-21,Electricity bill,124.76,Utilities
+2024-10-22,Vitamins,95.4,Healthcare
+2024-10-23,Home decor,146.08,Shopping
+2024-10-24,Bus ticket,49.2,Transportation
+2024-10-24,Groceries,111.17,Food
+2024-10-24,Bus ticket,126.0,Transportation
+2024-10-24,Gaming,28.43,Entertainment
+2024-10-25,Electricity bill,21.95,Utilities
+2024-10-26,Water bill,108.3,Utilities
+2024-10-26,Electronics,40.02,Shopping
+2024-10-27,Gas station,14.94,Transportation
+2024-10-27,Electronics,139.73,Shopping
+2024-10-28,Supermarket,143.98,Food
+2024-10-28,Movie ticket,60.02,Entertainment
+2024-10-28,Fast food,33.48,Food
+2024-10-28,Gift,39.6,Shopping
